@@ -6,3 +6,6 @@ def get_age(age):
 
 def get_age3(age3):
     return age3
+
+def get_sum(x, y):
+    return x + y
